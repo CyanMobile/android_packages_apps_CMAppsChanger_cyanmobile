@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CyanMobile Apps Changer</string>
+    <string name="reboot_title">Reboot required</string>
+    <string name="reboot_message">Your system must now be rebooted to load your new apps.</string>
+    <string name="reboot_ok">Reboot now</string>
+    <string name="reboot_cancel">Cancel</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="need_root_message">Error copying files. Are you rooted?</string>
+    <string name="need_root_title">su command error</string>
+    <string name="reboot_failed_title">Reboot error</string>
+    <string name="reboot_failed_message">Could not reboot the system. Your system needs to be rebooted to load your new apps. Please do so as soon as possible.</string>
+    <string name="mkdir_failed_title">Error</string>
+    <string name="mkdir_failed_message">Could not create Apps directory on sdcard</string>
+    <string name="remount_failed_title">Error remounting</string>
+    <string name="remount_failed_message">Could not remount /system</string>
+    <string name="menu_apply">Apply Apps</string>
+    <string name="menu_backup">Backup Apps</string>
+    <string name="menu_restore">Restore Apps</string>
+    <string name="menu_reset">Reset paths</string>
+    <string name="select_app">Select a app</string>
+    <string name="diag_backing_up">Backing up apps</string>
+    <string name="toast_backed_up">Apps backed up to /sdcard/SystemApps</string>
+    <string name="diag_applying">Applying Apps</string>
+    <string name="toast_applied">Your apps have been applied</string>
+    <string name="diag_restoring">Restoring Apps</string>
+    <string name="toast_restored">Apps restored from SD card</string>
+    <string name="diag_copying">Copying apps</string>
+    <string name="diag_rebooting">Rebooting</string>
+    <string name="please_wait">CyanMobile Please wait...</string>
+    <string name="context_copy">Copy path</string>
+    <string name="context_paste">Paste path</string>
+    <string name="context_clear">Clear path</string>
+</resources>
